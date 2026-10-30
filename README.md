@@ -248,5 +248,5 @@ Para profundizar en los aspectos metodológicos y pedagógicos, consulta los doc
 <div align="center">
   <br>
   <b>Laboratorio de la Elipse · Feria STEAM+ 2026</b><br>
-  <i>"La ciencia es el gran antídoto contra el veneno del entusiasmo y la superstición" — Adam Smith</i>
+  
 </div>
